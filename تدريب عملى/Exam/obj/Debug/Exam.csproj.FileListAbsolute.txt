@@ -1,0 +1,12 @@
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\bin\Debug\Exam.exe
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\bin\Debug\Exam.pdb
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\obj\Debug\Exam.Form1.resources
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\obj\Debug\Exam.exe
+D:\MET\2023\Term-2\CS1\Database\Sec\Exam\Exam\Exam\obj\Debug\Exam.pdb
+D:\MET\2023\Term-2\CS1\Database\CS1-IntroductiontoDatabase-2022-2023\Exam\تدريب عملى\Exam\bin\Debug\Exam.exe.config
+D:\MET\2023\Term-2\CS1\Database\CS1-IntroductiontoDatabase-2022-2023\Exam\تدريب عملى\Exam\obj\Debug\Exam.exe
+D:\MET\2023\Term-2\CS1\Database\CS1-IntroductiontoDatabase-2022-2023\Exam\تدريب عملى\Exam\obj\Debug\Exam.pdb
